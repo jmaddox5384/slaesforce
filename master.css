@@ -1,0 +1,27 @@
+
+form {
+    padding-left: 20%;
+    align-items: center;
+    width: 100%;
+}
+
+input {
+    align-items: center;
+    padding-top: 20px;
+    width: 50%;
+    height: 38px;
+    border-radius: 6px;
+}
+
+label {
+    font-size: 20;
+    align-items: center;
+    display: flex;
+}
+
+body {
+    
+    
+    background-image: url(/img-eye.jpg);
+
+}
